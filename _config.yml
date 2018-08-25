@@ -17,7 +17,7 @@ baseurl: ""
 title: Zhong Chen's website
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Zhong's Home
 
 # --- Navigation bar options --- #
 
@@ -71,7 +71,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "zhongchen@digitallogic.io"
+  email: "zchen87@gmail.com"
   #facebook: daattali
   twitter: Zhong__Chen
   github:  zhongchen
@@ -106,7 +106,7 @@ url-pretty: "zhongchen.me"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-124629231-1"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -123,7 +123,7 @@ url-pretty: "zhongchen.me"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-# disqus: ""
+disqus: "zhongchen-me"
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
