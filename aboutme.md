@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Imagination is more important than knowledge
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Zhong Chen. Welcome to my site! 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### My History
 
-What else do you need?
+I was born and raised in Shanghai China. I studied applied mathematics at [Fudan University](http://math.fudan.edu.cn/en/). After I graduated, I went to [Georgia Institute of Technology](https://www.cse.gatech.edu/) and had my master degree in computer science there.
 
-### my history
+I am currently working fulltime as a backend developer at [Sumo Logic](https://www.sumologic.com/). At the same time, I am working as a part-time investment associate at [Fenbushi VC](https://fenbushi.digital/). Before Sumo, I spent two and half wonderful years in the Bing Ads group at Microsoft in Seattle.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Personal Interests
+
+- cloud computing
+- machine learning
+- blockchain technology 
