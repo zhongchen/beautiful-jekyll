@@ -23,7 +23,7 @@ description: Zhong's Home
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  # About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -183,6 +183,7 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
+  - examples
 
 # prose.io config
 prose:
